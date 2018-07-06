@@ -1,4 +1,4 @@
 # TestRepository
 test
 
-# 練習用レポジトリ
+// 練習用レポジトリ
